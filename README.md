@@ -12,5 +12,5 @@ A promotional website for a fictional music festival called **MoonRock Fest**. T
 * **Ticketing:** Online ticket purchase form.
 
 ## 🔗 Live Demo
-[View the project here](https://eliftelli.github.io/Festival-Landing-Page/)
+> **🌐 Live Demo:** [View the project here!](https://eliftelli.github.io/Festival-Landing-Page/)
 

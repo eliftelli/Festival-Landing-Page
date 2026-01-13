@@ -1,16 +1,16 @@
-# MoonRock Fest Web Sitesi
+# 🎸 Festival Landing Page
 
-Bu proje, **MoonRock Fest** adlı hayali bir müzik festivali için hazırlanan tanıtım web sitesidir.  
-HTML ve CSS kullanılarak oluşturulmuştur.  
+A promotional website for a fictional music festival called **MoonRock Fest**. This project focuses on static web design and layout structure.
 
-## Özellikler
+## 🛠 Built With
+* **HTML5**
+* **CSS3**
 
-- Ana sayfa, festival hakkında kısa bilgi ve kaydırmalı görseller (slider)
-- Sanatçılar, festival timeline ve galeri sayfaları
-- Online bilet alma formu
-- GitHub Pages üzerinde barındırma
+## 🌟 Features
+* **Home Page:** Festival overview with an image slider.
+* **Content Pages:** Artist lineups, festival timeline, and gallery.
+* **Ticketing:** Online ticket purchase form.
 
-## Canlı Demo
-
-https://eliftelli.github.io/
+## 🔗 Live Demo
+[View the project here](https://eliftelli.github.io/Festival-Landing-Page/)
 
